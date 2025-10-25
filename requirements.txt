@@ -1,0 +1,4 @@
+selenium>=4.10.0
+webdriver-manager>=4.0.0
+pillow>=9.0.0
+ipython>=8.0.0
